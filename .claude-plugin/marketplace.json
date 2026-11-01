@@ -1,0 +1,13 @@
+{
+  "name": "ctrlia",
+  "description": "Plugins en español de Ctrl+IA para Claude Code",
+  "owner": {
+    "name": "Ctrl+IA"
+  },
+  "plugins": [
+    {
+      "name": "commit-es",
+      "source": "./"
+    }
+  ]
+}
