@@ -2,6 +2,8 @@
 
 [Read in English](README.en.md)
 
+English version: [README.en.md](README.en.md) (archivos en `en/`).
+
 `commit-es` es un plugin de Claude Code que redacta mensajes de commit en español con formato Conventional Commits a partir de los cambios preparados (`git diff --cached`). Es el ejemplo completo de la receta «Crear un plugin de Claude Code»: manifiesto, skill, eval y marketplace, todo en este repositorio.
 
 - Receta en español: https://ctrlia.dev/recetas/crear-plugin-claude-code.html

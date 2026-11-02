@@ -1,0 +1,7 @@
+{
+  "name": "commit-en",
+  "description": "Writes commit messages in English using Conventional Commits",
+  "version": "0.1.0",
+  "author": { "name": "Ctrl+IA" },
+  "license": "MIT"
+}
